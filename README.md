@@ -1,4 +1,4 @@
-# H1 GET TO KNOW ME
+# GET TO KNOW ME
 
 Name: **bold text** Amadahy Patrice Candelaria Duran
 Nicknames: **bold text** Adhy, Shobie, Ads, Pat, and Mady
