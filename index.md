@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## GET TO KNOW ME
 
-You can use the [editor on GitHub](https://github.com/AmadahyPatrice/PT_Term3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I'm Amadahy Patrice C. Duran, a 3rd year high school student and interested in taking STEM as a strand in senior high school and med-tech or nursing as a course in college.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
