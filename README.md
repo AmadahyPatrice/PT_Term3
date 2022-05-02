@@ -1,4 +1,3 @@
-# PT_Term3
 # H1 GET TO KNOW ME
 
 Name: **bold text** Amadahy Patrice Candelaria Duran
