@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/102704674/166186067-e0a46636-1032-4de9-bc79-74cde24ed511.png)
+
 # GET TO KNOW ME
 
 Name: **bold text** Amadahy Patrice Candelaria Duran
