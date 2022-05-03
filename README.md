@@ -1,4 +1,4 @@
-<body background=![image3](https://user-images.githubusercontent.com/102704674/166428358-719e28e1-c1c9-4ca9-8d43-8ffa87463421.jpg)>
+<body![image3](https://user-images.githubusercontent.com/102704674/166428358-719e28e1-c1c9-4ca9-8d43-8ffa87463421.jpg)>
 
 # GET TO KNOW ME
 
