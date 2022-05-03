@@ -4,17 +4,17 @@
 
 I'm Amadahy Patrice C. Duran, a 3rd year high school student and interested in taking STEM as a strand in senior high school and med-tech or nursing as a course in college.
 
-**bold text** Detailed Information About Me:
-Name: **bold text** Amadahy Patrice Candelaria Duran
-Nicknames: **bold text** Adhy, Shobie, Ads, Pat, and Mady
-Age: **bold 15 text** 
-Birthday: **bold text** November 21, 2006
-Gender: **bold text** Female
-School: **bold text** Ateneo de Naga JHS
-Address: **bold text** Naga City, Camarines Sur
+**Detailed Information About Me:** 
+Name: **Amadahy Patrice Candelaria Duran** 
+Nicknames: **Adhy, Shobie, Ads, Pat, and Mady**
+Age: **15** 
+Birthday: **November 21, 2006** 
+Gender: **Female** 
+School: **Ateneo de Naga JHS** 
+Address: **Naga City, Camarines Sur**
 
 
-**bold text** SOCIAL:
+**SOCIAL:**
 
 ![image](https://user-images.githubusercontent.com/102704674/166186500-5a15dabb-48f7-4326-b85b-4bacb87a60ed.jpeg)
 
