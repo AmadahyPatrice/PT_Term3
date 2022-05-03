@@ -1,4 +1,3 @@
-fstPage { background-image:url ("![image3](https://user-images.githubusercontent.com/102704674/166429155-1c6da60b-6216-4cf0-b5aa-9883979614fc.jpg)); */ height: 700px; width:100%; background-size:cover; }
 # GET TO KNOW ME
 
 ![image](https://user-images.githubusercontent.com/102704674/166186437-d271049c-bb39-4086-9988-54f0f2aff1f2.jpeg)
