@@ -1,4 +1,4 @@
-# GET TO KNOW ME
+# About ADHY
 
 ![image](https://user-images.githubusercontent.com/102704674/166186437-d271049c-bb39-4086-9988-54f0f2aff1f2.jpeg)
 
