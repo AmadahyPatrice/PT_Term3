@@ -20,9 +20,6 @@ School: **Ateneo de Naga JHS**
 
 Address: **Naga City, Camarines Sur**
 
-**SOCIAL:**
-
 ![image](https://user-images.githubusercontent.com/102704674/166186500-5a15dabb-48f7-4326-b85b-4bacb87a60ed.jpeg)
 
-[Facebook]
-(https://www.facebook.com/addie.duran.35)
+I love going to the beach, but mostly I stay indoors because I'm not that fond of going out of our house because I find it not necessary to go out that much and I only go out every Sunday for mass and family bonding.
