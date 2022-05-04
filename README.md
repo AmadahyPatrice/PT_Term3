@@ -9,17 +9,11 @@ I'm Amadahy Patrice C. Duran, a 3rd year high school student and interested in t
 Name: **Amadahy Patrice Candelaria Duran** 
 
 Nicknames: **Adhy, Shobie, Ads, Pat, and Mady**
-
-Age: **15** 
-
+Age: **15**
 Birthday: **November 21, 2006** 
-
 Gender: **Female** 
-
 School: **Ateneo de Naga JHS** 
-
 Address: **Naga City, Camarines Sur**
-
 
 **SOCIAL:**
 
