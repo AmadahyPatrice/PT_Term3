@@ -5,6 +5,7 @@
 I'm Amadahy Patrice C. Duran, a 3rd year high school student and interested in taking STEM as a strand in senior high school and med-tech or nursing as a course in college.
 
 **Detailed Information About Me:** 
+
 Name: **Amadahy Patrice Candelaria Duran** 
 Nicknames: **Adhy, Shobie, Ads, Pat, and Mady**
 Age: **15** 
